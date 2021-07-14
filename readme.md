@@ -10,12 +10,12 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pholm2000 Spotify Playing" width="350" />](https://open.spotify.com/user/smpabfcy56czivw48aciu359k)
 
-### Connect with me:
+### Connect med mig:
 
 [<img align="left" alt="FN pholm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
-### Languages and Tools:
+### Sprog & værktøjer:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
