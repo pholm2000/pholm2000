@@ -6,6 +6,8 @@
 - 🌱 Ligenu lære jeg alt 🤣
 - ⚡ Fun Fact: Jeg bruger næsten alt min energi på kodning.
 
+https://github-readme-stats.vercel.app/api?username=pholm2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pholm2000 Spotify Playing" width="350" />](https://open.spotify.com/user/smpabfcy56czivw48aciu359k)
