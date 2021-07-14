@@ -6,7 +6,7 @@
 - 🌱 Ligenu lære jeg alt 🤣
 - ⚡ Fun Fact: Jeg bruger næsten alt min energi på kodning.
 
-<img src"https://github-readme-stats.vercel.app/api?username=pholm2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=pholm2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Spotify Playing 🎧
 
