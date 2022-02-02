@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://cdn.discordapp.com/attachments/793429024050511874/938543228712534026/Banner.png)](https://github.com/pholm2000) 
   
 <p>
   <h1 align="center"><b>Hello there, I'm pholm 👋</b></h1>
@@ -9,7 +9,7 @@
 [![Discord](https://dcbadge.vercel.app/api/shield/546367816337588254?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/546367816337588254)
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 📘 Quick Information
 - 👨🏽‍💻 I’m currently working on an Anticheat-System (FiveM Resource)
@@ -60,7 +60,6 @@ Web Development & FiveM Development
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <h3 align="center">Thank You 🙏🏼</h3>
 
