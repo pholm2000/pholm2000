@@ -46,7 +46,13 @@
 
 </br></br></br></br></br></br></br></br></br>
 
-
+---
+📊 ** I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Web Development & FiveM Development
+```
+<!--END_SECTION:waka-->
 
 <br>
 
