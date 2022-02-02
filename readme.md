@@ -44,10 +44,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholm2000&show_icons=true&hide_border=true&theme=radical">
 
 
-<a href="https://github.com/pholm2000/pholm2000">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pholm2000&repo=pholm2000&theme=dark" />
-</a>
-
 </br></br></br></br></br></br></br></br></br>
 
 ---
