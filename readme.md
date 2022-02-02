@@ -11,19 +11,20 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Developer
-- 💎 I’m currently working on a new FiveM anticheat :smirk:
-- 🌱 I’m currently learning ALOT of Web & FiveM Development. :clipboard:
-- 👯 I’m looking forward to collaborate with other Developers :wink:
+### 📘 Quick Information
+- 👨🏽‍💻 I’m currently working on an Anticheat-System (FiveM Resource)
+- 🌱 I’m currently learning ALOT about Web & FiveM Development
+- 👯 I’m looking forward to collaborate with other Developers
 - 🥅 2022 Goals: Learn a new language :eyes:
-- 📬 How to reach me: $pholm#9999
+- 🎿 Hobbies other than coding : Hardware , Soccer , Netflix 🤔🤖..
 - ⚡ Fun fact: I play soccer :soccer:
+- 📬 How to reach me: $pholm#9999
 
 <br>
 
 
 ---
-### 🔥 Languages and Tools: 
+### 🔥 Languages and Tools 
 <img align="left" alt="LUA" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
