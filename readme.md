@@ -39,13 +39,14 @@
 ---
 ### 🔴 My GitHub Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pholm2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholm2000&show_icons=true&hide_border=true&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pholm2000&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 
 
-</br></br></br></br></br></br></br></br></br>
-<br>
+</br></br></br></br></br>
+
 ---
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
