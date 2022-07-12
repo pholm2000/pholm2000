@@ -13,11 +13,10 @@
 
 ### 📘 Quick Information
 - 👨🏽‍💻 I’m currently working on an Anticheat-System (FiveM Resource)
-- 🌱 I’m currently learning ALOT about Web & FiveM Development
+- 🌱 I’m currently expanding my knowledge about Web & FiveM Development
 - 👯 I’m looking forward to collaborate with other Developers
-- 🥅 2022 Goals: Learn a new language :eyes:
-- 🎿 Hobbies other than coding : Hardware , Soccer , Netflix 🤔🤖..
-- ⚡ Fun fact: I play soccer :soccer:
+- 🥅 2022 Goals: Become more fluent in my languages :eyes:
+- 🎿 Hobbies other than coding : Hardware & Soccer🤔🤖..
 - 📬 How to reach me: $pholm#9999
 
 <br>
