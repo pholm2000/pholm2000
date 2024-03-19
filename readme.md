@@ -15,8 +15,7 @@
 - 🥅 2024 Målsætninger: Bliver bedre indenfor web udvikling :eyes:
 - 🎿 Adnre interesser: Hardware & fodbold🤔🤖..
 
-<h2 align="left">Heyy 👋! Mit navn er Daniel...</h2>
-
+<h2 align="left">Sats</h2>
 ###
 
 <div align="center">
