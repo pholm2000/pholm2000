@@ -12,7 +12,7 @@
 - 👨🏽‍💻 Ligenu arbejder jeg på lidt forskelligt, mest web udvikling.
 - 🌱 Jeg lærer pt. en masse om web udvikling.
 - 👯 Jeg ser frem til at sammarbejde med andre developers.
-- 🥅 2024 Målsætninger: Bliver bedre indenfor web udvikling :eyes:
+- 🥅 2026 Målsætninger: Bliver bedre indenfor web udvikling :eyes:
 - 🎿 Andre interesser: Hardware & fodbold🤔🤖..
 
 <h2 align="center">Stats</h2>
@@ -44,3 +44,4 @@
 </div>
 
 ###
+
